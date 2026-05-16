@@ -172,8 +172,4 @@ MIT License
 - Claude 项目审查提示词
 - AI 多角色代码审查
 - UI/UX AI 评估工具
-- 自动化合规检查
-
----
-
-> 💡 **提示**：本 Skill 设计为与 [OpenClaw AI](https://github.com/OpenClawAI) 和 Claude 深度集成。将 SKILL.md 放入技能目录后，AI 会自动识别触发词并执行 4 角色审查流程。
+- 自动化合规检查。
